@@ -20,6 +20,7 @@ distance=math.sqrt(((l2[0]-l1[0])**2)+((l2[1]-l1[1])**2))
 print("{:.2f}".format(distance))
 ```
 ### OUTPUT:
-![output](distance.png)
+![distance](https://user-images.githubusercontent.com/117974950/210138041-c49a3853-a781-4ac2-b311-138d325cbb7b.png)
+
 
 ### RESULT:Thus the swapping of two values are successfully executed
